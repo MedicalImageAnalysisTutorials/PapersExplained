@@ -38,8 +38,8 @@ Our tutorial:
    - help in preparing a video or animation together.
    - write a new tutorial yourself and then we add links to eachother.
    - translate this work to another language.
-   - finance a tutorial you are interested to see.
-   - [buy me a coffee]() :)
+   - finance a tutorial you are interested to see, [my patron ID](https://www.patreon.com/user?u=31137673&fan_landing=true).
+   - [buy me a coffee](paypal.me/idhamari) :)
    - your suggestion? I am open to new cooperation ideas!
 
 Please write me an [email](ibr.exg@gmail.com) and we can discuss the details. 
