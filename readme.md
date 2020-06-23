@@ -3,7 +3,7 @@
 
 This is a github repository for my new series Math to Program (**M2P**). As the repository titile suggested, it is about explaining scientific papers. In this series I am writing tutorials in form of python notebooks which can be run in Google Colab. This a result of a team work (researchers, students, and paied-freelancers). Currently, there is no content as we are expermenting on different stuff but hopefully the contents will be updated soon.
 
-**Why Google Colab?** it provides a virtual machine with GPU. One can install different tools and run them easily. The work can be updated, corrected, extended whenever we like. This makes it lives longer and be useful to many readers. One can use the left side panel for easy navigation. Here is a nice [10 minutes colab video tutorial]() in case you are new to colab.
+**Why [Google Colab](https://colab.research.google.com/)?** it provides a virtual machine with GPU. One can install different tools and run them easily. The work can be updated, corrected, extended whenever we like. This makes it lives longer and be useful to many readers. One can use the left side panel for easy navigation. Here is a nice [10 minutes colab video tutorial]() in case you are new to colab.
 
 **What is this series about? why it is different?** reading a scientific paper in a new topic is a challenging e.g. 
 1. These papers are written by experts to other experts. Information from the paper background is omitted and cited so one need to recursivly go through many papers to understand a simple piece of a paper.
