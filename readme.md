@@ -27,7 +27,7 @@ Our tutorial:
 
 **How do you select the papers?** the papers are selected to cover a specific topic. Currently we are covering papers related to one of my research interest: medical image registration. We hope this series expands to other fields in the future. We are planning to cover B-Spline transform, mutual information metric, and adaptive stochastic optimisation. This paper is belong to two papers in B-spline. The selected papers are either classical important papers or recent state of the aret papers. 
 
-**What if something is still not clear?** Some tutorials has an introductory tutorials you should read first. Each tutorial has a video lecture based on it. We suggest you start there. After that read, trace and practice teh code yourself. If things is still not clear, please ask a question in [stack exchange]() then open an issue in our github adding your question link. We will try to answer you soon and close the issue.
+**What if something is still not clear?** Some tutorials has an introductory tutorials you should read first. Each tutorial has a video lecture based on it. We suggest you start there. After that read, trace and practice teh code yourself. If things is still not clear, please ask a question in [stack exchange](https://stackexchange.com/) then open an issue in our github adding your question link. We will try to answer you soon and close the issue.
 
 **Can I write you a feedback or correction?** you are more than welcom :) I am not a native English speaker niether an expert so **I really appreciate your support to provide less confusion, clean and correct knowledge**. 
 
