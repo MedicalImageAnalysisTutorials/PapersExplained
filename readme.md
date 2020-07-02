@@ -3,7 +3,7 @@
 
 This is a github repository for my new series Math to Program (**M2P**). As the repository titile suggested, it is about explaining scientific papers. In this series I am writing tutorials in form of python notebooks which can be run in Google Colab. This a result of a team work (researchers, students, and paied-freelancers). Currently, there is no content as we are expermenting on different stuff but hopefully the contents will be updated soon.
 
-**Why Google Colab?** it provides a virtual machine with GPU. One can install different tools and run them easily. The work can be updated, corrected, extended whenever we like. This makes it lives longer and be useful to many readers. One can use the left side panel for easy navigation. Here is a nice [10 minutes colab video tutorial]() in case you are new to colab.
+**Why [Google Colab](https://colab.research.google.com/)?** it provides a virtual machine with GPU. One can install different tools and run them easily. The work can be updated, corrected, extended whenever we like. This makes it lives longer and be useful to many readers. One can use the left side panel for easy navigation. Here is a nice [10 minutes colab video tutorial]() in case you are new to colab.
 
 **What is this series about? why it is different?** reading a scientific paper in a new topic is a challenging e.g. 
 1. These papers are written by experts to other experts. Information from the paper background is omitted and cited so one need to recursivly go through many papers to understand a simple piece of a paper.
@@ -27,7 +27,7 @@ Our tutorial:
 
 **How do you select the papers?** the papers are selected to cover a specific topic. Currently we are covering papers related to one of my research interest: medical image registration. We hope this series expands to other fields in the future. We are planning to cover B-Spline transform, mutual information metric, and adaptive stochastic optimisation. This paper is belong to two papers in B-spline. The selected papers are either classical important papers or recent state of the aret papers. 
 
-**What if something is still not clear?** Some tutorials has an introductory tutorials you should read first. Each tutorial has a video lecture based on it. We suggest you start there. After that read, trace and practice teh code yourself. If things is still not clear, please ask a question in [stack exchange]() then open an issue in our github adding your question link. We will try to answer you soon and close the issue.
+**What if something is still not clear?** Some tutorials has an introductory tutorials you should read first. Each tutorial has a video lecture based on it. We suggest you start there. After that read, trace and practice teh code yourself. If things is still not clear, please ask a question in [stack exchange](https://stackexchange.com/) then open an issue in our github adding your question link. We will try to answer you soon and close the issue.
 
 **Can I write you a feedback or correction?** you are more than welcom :) I am not a native English speaker niether an expert so **I really appreciate your support to provide less confusion, clean and correct knowledge**. 
 
@@ -38,11 +38,11 @@ Our tutorial:
    - help in preparing a video or animation together.
    - write a new tutorial yourself and then we add links to eachother.
    - translate this work to another language.
-   - finance a tutorial you are interested to see.
-   - [buy me a coffee]() :)
+   - finance a tutorial you are interested to see, [my patron ID](https://www.patreon.com/user?u=31137673&fan_landing=true).
+   - [buy me a coffee](https://www.paypal.me/idhamari) :)
    - your suggestion? I am open to new cooperation ideas!
 
-Please write me an [email](ibr.exg@gmail.com) and we can discuss the details. 
+Please write me an [email](mailto:ibr.exg@gmail.com) and we can discuss the details. 
 
 ----
 
